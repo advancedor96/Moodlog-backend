@@ -24,3 +24,6 @@ DB_PWD=your_password
 ```
 ./mvnw spring-boot:run
 ```
+
+## Frontend 
+<img width="1003" height="804" alt="image" src="https://github.com/user-attachments/assets/24d4f46c-69b3-4d79-97af-80761314c49c" />
